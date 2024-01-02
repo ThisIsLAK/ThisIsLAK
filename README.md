@@ -1,4 +1,3 @@
-![]("C:\Users\Admin\Downloads\Beige Modern Elegant Personal LinkedIn Banner.png")
 
 ### Hi there 👋, my name is Khoa
 
