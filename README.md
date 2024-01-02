@@ -1,4 +1,3 @@
-[<img src='"C:\Users\Admin\Downloads\Beige Modern Elegant Personal LinkedIn Banner.png"' alt='github'>]  
 ### Hi there 👋, my name is Khoa
 
 
