@@ -1,6 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisIsLAK&label=Profile%20views&color=0e75b6&style=flat" alt="thisisLAK" /> </p>
-
-
 <h1 align="center">Hi 👋, I'm Le Anh Khoa</h1>
 <h3 align="center">I'm an university student</h3>
 
